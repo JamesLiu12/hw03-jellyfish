@@ -4,6 +4,8 @@ For this project, I made a procedural jellyfish in Houdini with an animated bell
 
 ## Animation
 
+https://github.com/user-attachments/assets/819a0003-bf7d-4dee-a974-5649321498c0
+
 ## Parts
 
 | Part | Preview |
